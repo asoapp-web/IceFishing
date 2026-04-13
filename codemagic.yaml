@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m1
     integrations:
-      app_store_connect: NNNNNNN  # Укажите название вашей интеграции App Store Connect в CodeMagic
+      app_store_connect: Fishing API  # Укажите название вашей интеграции App Store Connect в CodeMagic
     environment:
       ios_signing:
         distribution_type: app_store
@@ -12,7 +12,7 @@ workflows:
       vars:
         BUNDLE_ID: "com.Ice.fishcatch"
         XCODE_SCHEME: "IsFishing"
-        APP_STORE_APPLE_ID: 0  # Замените на реальный Apple ID приложения в App Store Connect
+        APP_STORE_APPLE_ID: 6761898708  # Замените на реальный Apple ID приложения в App Store Connect
       xcode: latest
     scripts:
       - name: Set up provisioning profiles settings on Xcode project
