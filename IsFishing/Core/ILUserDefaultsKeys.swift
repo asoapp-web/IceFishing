@@ -1,0 +1,27 @@
+import Foundation
+
+enum ILUserDefaultsKeys {
+    static let onboardingCompleted = "il_onboarding_completed"
+    static let profileDisplayName = "il_profile_displayName"
+    static let profileAvatarType = "il_profile_avatarType"
+    static let profileAvatarValue = "il_profile_avatarValue"
+    static let spotsData = "il_spots_data"
+    static let mapLastRegion = "il_map_lastRegion"
+    static let sessionsData = "il_sessions_data"
+    static let notesData = "il_notes_data"
+    static let gamesTrophyPointsTotal = "il_games_trophyPointsTotal"
+    static let gamesCurrentTier = "il_games_currentTier"
+    static let gamesPullHighScore = "il_games_pullHighScore"
+    static let gamesPullGamesPlayed = "il_games_pullGamesPlayed"
+    static let gamesPullTotalPoints = "il_games_pullTotalPoints"
+    static let gamesMarkedHighScore = "il_games_markedHighScore"
+    static let gamesMarkedGamesPlayed = "il_games_markedGamesPlayed"
+    static let gamesMarkedTotalPoints = "il_games_markedTotalPoints"
+    static let gamesMarkedBestStreak = "il_games_markedBestStreak"
+    static let statsReadArticles = "il_stats_readArticles"
+    static let statsExploredSpecies = "il_stats_exploredSpecies"
+    static let appRewardTheme = "il_app_reward_theme"
+    static let dailyTabVisitDay = "il_daily_tab_visit_day"
+    static let dailyTabVisitMask = "il_daily_tab_visit_mask"
+    static let dailyExplorerBonusDay = "il_daily_explorer_bonus_day"
+}
