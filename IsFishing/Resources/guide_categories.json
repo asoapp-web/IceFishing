@@ -1,0 +1,10 @@
+[
+  {"id": "safety", "name": "Ice Safety", "iconSymbol": "shield.lefthalf.filled", "sortOrder": 0},
+  {"id": "gear", "name": "Gear & Equipment", "iconSymbol": "wrench.and.screwdriver.fill", "sortOrder": 1},
+  {"id": "location", "name": "Choosing a Spot", "iconSymbol": "map.fill", "sortOrder": 2},
+  {"id": "techniques", "name": "Techniques", "iconSymbol": "fish.circle.fill", "sortOrder": 3},
+  {"id": "bait", "name": "Bait & Lures", "iconSymbol": "leaf.fill", "sortOrder": 4},
+  {"id": "species_guide", "name": "Target Species", "iconSymbol": "fish.fill", "sortOrder": 5},
+  {"id": "ethics", "name": "Ethics & Regulations", "iconSymbol": "hand.raised.fill", "sortOrder": 6},
+  {"id": "preparation", "name": "Trip Preparation", "iconSymbol": "checklist", "sortOrder": 7}
+]
